@@ -1,3 +1,7 @@
 This is File1
 Hello world!
+<<<<<<< HEAD
 change from new
+=======
+Change from original
+>>>>>>> origin/master
